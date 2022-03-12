@@ -1,0 +1,11 @@
+.modal-header{
+    background-color: #f7941e;
+    column-rule: #fff;
+}
+.required:after{
+    content: "*";
+    color: red ;
+}
+input{
+    border: 1px solid black;
+}
